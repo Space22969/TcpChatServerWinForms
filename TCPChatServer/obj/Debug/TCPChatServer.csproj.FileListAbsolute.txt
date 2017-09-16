@@ -1,0 +1,128 @@
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatServer\TCPChatServer\bin\Debug\TCPChatServer.exe.config
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatServer\TCPChatServer\bin\Debug\TCPChatServer.exe
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatServer\TCPChatServer\bin\Debug\TCPChatServer.pdb
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.csprojResolveAssemblyReference.cache
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.Properties.Resources.resources
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.csproj.GenerateResource.Cache
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.exe
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.pdb
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.ServerWindow.resources
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatServer\TCPChatServer\bin\Debug\EntityFramework.dll
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatServer\TCPChatServer\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatServer\TCPChatServer\bin\Debug\System.Data.SQLite.dll
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatServer\TCPChatServer\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatServer\TCPChatServer\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatServer\TCPChatServer\bin\Debug\EntityFramework.xml
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatServer\TCPChatServer\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatServer\TCPChatServer\bin\Debug\System.Data.SQLite.xml
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatServer\TCPChatServer\bin\Debug\System.Data.SQLite.dll.config
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatServer\TCPChatServer\bin\Debug\CoreServer.dll
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatServer\TCPChatServer\bin\Debug\CoreServer.pdb
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatServer\TCPChatServer\bin\Debug\CoreServer.dll.config
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\TCPChatServer\TCPChatServer\bin\Debug\TCPChatServer.exe.config
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\TCPChatServer\TCPChatServer\bin\Debug\TCPChatServer.exe
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\TCPChatServer\TCPChatServer\bin\Debug\TCPChatServer.pdb
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\TCPChatServer\TCPChatServer\bin\Debug\CoreServer.dll
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\TCPChatServer\TCPChatServer\bin\Debug\EntityFramework.dll
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\TCPChatServer\TCPChatServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\TCPChatServer\TCPChatServer\bin\Debug\System.Data.SQLite.dll
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\TCPChatServer\TCPChatServer\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\TCPChatServer\TCPChatServer\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\TCPChatServer\TCPChatServer\bin\Debug\CoreServer.pdb
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\TCPChatServer\TCPChatServer\bin\Debug\CoreServer.dll.config
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\TCPChatServer\TCPChatServer\bin\Debug\EntityFramework.xml
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\TCPChatServer\TCPChatServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\TCPChatServer\TCPChatServer\bin\Debug\System.Data.SQLite.xml
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\TCPChatServer\TCPChatServer\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.csprojResolveAssemblyReference.cache
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.ServerWindow.resources
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.Properties.Resources.resources
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.csproj.GenerateResource.Cache
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.exe
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.pdb
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\bin\Debug\TCPChatServer.exe.config
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\bin\Debug\TCPChatServer.exe
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\bin\Debug\TCPChatServer.pdb
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\bin\Debug\CoreServer.dll
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\bin\Debug\EntityFramework.dll
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\bin\Debug\System.Data.SQLite.dll
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\bin\Debug\CoreServer.pdb
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\bin\Debug\CoreServer.dll.config
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\bin\Debug\EntityFramework.xml
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\bin\Debug\System.Data.SQLite.xml
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.csprojResolveAssemblyReference.cache
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.ServerWindow.resources
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.Properties.Resources.resources
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.csproj.GenerateResource.Cache
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.exe
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.pdb
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\bin\Debug\TCPChatServer.exe.config
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\bin\Debug\TCPChatServer.exe
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\bin\Debug\TCPChatServer.pdb
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\bin\Debug\CoreServer.dll
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\bin\Debug\EntityFramework.dll
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\bin\Debug\System.Data.SQLite.dll
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\bin\Debug\CoreServer.pdb
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\bin\Debug\CoreServer.dll.config
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\bin\Debug\EntityFramework.xml
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\bin\Debug\System.Data.SQLite.xml
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.csprojResolveAssemblyReference.cache
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.ServerWindow.resources
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.Properties.Resources.resources
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.csproj.GenerateResource.Cache
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.exe
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.pdb
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatServer\TCPChatServer\bin\Debug\TCPChatServer.exe.config
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatServer\TCPChatServer\bin\Debug\TCPChatServer.exe
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatServer\TCPChatServer\bin\Debug\TCPChatServer.pdb
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatServer\TCPChatServer\bin\Debug\CoreServer.dll
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatServer\TCPChatServer\bin\Debug\EntityFramework.dll
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatServer\TCPChatServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatServer\TCPChatServer\bin\Debug\System.Data.SQLite.dll
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatServer\TCPChatServer\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatServer\TCPChatServer\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatServer\TCPChatServer\bin\Debug\CoreServer.pdb
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatServer\TCPChatServer\bin\Debug\CoreServer.dll.config
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatServer\TCPChatServer\bin\Debug\EntityFramework.xml
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatServer\TCPChatServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatServer\TCPChatServer\bin\Debug\System.Data.SQLite.xml
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatServer\TCPChatServer\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.csprojResolveAssemblyReference.cache
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.ServerWindow.resources
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.Properties.Resources.resources
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.csproj.GenerateResource.Cache
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.exe
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.pdb
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.CheckLogs.resources
+C:\Users\Space22\Documents\Chat\TCPChatServer\TCPChatServer\bin\Debug\TCPChatServer.exe.config
+C:\Users\Space22\Documents\Chat\TCPChatServer\TCPChatServer\bin\Debug\TCPChatServer.exe
+C:\Users\Space22\Documents\Chat\TCPChatServer\TCPChatServer\bin\Debug\TCPChatServer.pdb
+C:\Users\Space22\Documents\Chat\TCPChatServer\TCPChatServer\bin\Debug\CoreServer.dll
+C:\Users\Space22\Documents\Chat\TCPChatServer\TCPChatServer\bin\Debug\EntityFramework.dll
+C:\Users\Space22\Documents\Chat\TCPChatServer\TCPChatServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Space22\Documents\Chat\TCPChatServer\TCPChatServer\bin\Debug\System.Data.SQLite.dll
+C:\Users\Space22\Documents\Chat\TCPChatServer\TCPChatServer\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Space22\Documents\Chat\TCPChatServer\TCPChatServer\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Space22\Documents\Chat\TCPChatServer\TCPChatServer\bin\Debug\CoreServer.pdb
+C:\Users\Space22\Documents\Chat\TCPChatServer\TCPChatServer\bin\Debug\CoreServer.dll.config
+C:\Users\Space22\Documents\Chat\TCPChatServer\TCPChatServer\bin\Debug\EntityFramework.xml
+C:\Users\Space22\Documents\Chat\TCPChatServer\TCPChatServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Space22\Documents\Chat\TCPChatServer\TCPChatServer\bin\Debug\System.Data.SQLite.xml
+C:\Users\Space22\Documents\Chat\TCPChatServer\TCPChatServer\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Space22\Documents\Chat\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.csprojResolveAssemblyReference.cache
+C:\Users\Space22\Documents\Chat\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.CheckLogs.resources
+C:\Users\Space22\Documents\Chat\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.ServerWindow.resources
+C:\Users\Space22\Documents\Chat\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.Properties.Resources.resources
+C:\Users\Space22\Documents\Chat\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.csproj.GenerateResource.Cache
+C:\Users\Space22\Documents\Chat\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.exe
+C:\Users\Space22\Documents\Chat\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.pdb
